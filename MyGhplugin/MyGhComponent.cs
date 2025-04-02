@@ -17,9 +17,9 @@ namespace MyGhplugin
     /// new tabs/panels will automatically be created.
     /// </summary>
     public MyGhComponent()
-      : base("MyGhComponent", "Nickname",
+      : base("MyGhComponenfft", "Nickname",
         "Description",
-        "Category", "Subcategory")
+        "Category", "Subcatedddgory")
     {
     }
 
